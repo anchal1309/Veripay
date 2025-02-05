@@ -2,6 +2,7 @@
 AI-POWERED FREELANCE PAYMENT SYSTEM
 (DAO-DRIVEN WITH GENLAYER)
 
+ # PROBLEM
  Freelancers often face delayed or unfair
  payments, while clients struggle with
  verifying work quality. Disputes arise due
@@ -10,20 +11,29 @@ AI-POWERED FREELANCE PAYMENT SYSTEM
  mistrust in freelancing.
 
 
-Approach: AI validates work,
+# Approach:
+AI validates work,
  smart contracts manage
  payments, and DAO ensures fair
  dispute resolution.
 
 
-KEY FEATURES
+# KEY FEATURES
  AI-based work verification (NLP/ML
  for quality checks)
  Smart contract escrow for secure
- payments
+ payments.
+ 
  DAO-powered dispute resolution
  Performance-based payment
  system
  Decentralized application (DApp)
  for seamless user interaction
 
+ # TECH STACK
+  Solidity, 
+  Python,
+  React, 
+  Blockchain (Ethereum),
+  IPFS, 
+  AI/ML (NLP, TensorFlow)
